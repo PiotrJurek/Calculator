@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator">Calculator</string>
+    <string name="simple">Simple</string>
+    <string name="advanced">Advanced</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="c">C</string>
+    <string name="division">/</string>
+    <string name="multiplication">*</string>
+    <string name="backspace"><![CDATA[<-]]></string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="minus">-</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="plus">+</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="equal">=</string>
+    <string name="sign">+/-</string>
+    <string name="zero">0</string>
+    <string name="dot">,</string>
+    <string name="start">(</string>
+    <string name="end">)</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="ln">ln</string>
+    <string name="sqrt">sqrt</string>
+    <string name="x2">x^2</string>
+    <string name="xy">x^y</string>
+    <string name="log">lg</string>
+    <string name="author">Author: Piotr Jurek 240693</string>
+    <string name="description">Application for basic and advanced calculations</string>
+    <string name="title_activity_about">About</string>
+</resources>

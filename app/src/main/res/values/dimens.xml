@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="advanced_text">40sp</dimen>
+    <dimen name="advanced_button">25sp</dimen>
+    <dimen name="layout">250dp</dimen>
+    <dimen name="simple_text">50sp</dimen>
+    <dimen name="simple_button">30sp</dimen>
+</resources>
